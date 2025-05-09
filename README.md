@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing games.
 - 🌱 I’m currently learning C#.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TZzzzzQAQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TZzzzzQAQ&hide=swift,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TZzzzzQAQ)](https://github.com/anuraghazra/github-readme-stats)
 <!---
