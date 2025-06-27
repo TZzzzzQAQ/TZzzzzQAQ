@@ -46,7 +46,7 @@
 
 ## 📊 Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TZzzzzQAQ&hide=swift,scss,css,html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📈 GitHub Stats
 
