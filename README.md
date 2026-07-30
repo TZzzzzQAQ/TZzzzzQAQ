@@ -20,7 +20,10 @@
 
 ```yaml
 name: TZzzzzQAQ
-role: Developer
+role: Developer & lifelong learner
+currently_learning:
+  - C#
+  - Full-stack development
 interests:
   - Software engineering
   - New technologies
@@ -67,26 +70,15 @@ motto: "Keep learning. Keep building."
 
 </div>
 
-## 📊 GitHub Analytics
+## 🧭 Explore My Work
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TZzzzzQAQ&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TZzzzzQAQ&show_icons=true&hide_border=true&rank_icon=github&theme=default&include_all_commits=true" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TZzzzzQAQ&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TZzzzzQAQ&layout=compact&hide=scss,html&hide_border=true&theme=tokyonight&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TZzzzzQAQ&layout=compact&hide=scss,html&hide_border=true&theme=default&langs_count=8" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZzzzzQAQ&layout=compact&hide=scss,html&hide_border=true&theme=tokyonight&langs_count=8" />
-</picture>
+<a href="https://github.com/TZzzzzQAQ?tab=repositories"><strong>📦 Explore My Repositories</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/TZzzzzQAQ"><strong>📈 View My Contributions</strong></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TZzzzzQAQ&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=TZzzzzQAQ&theme=default&hide_border=true" />
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=TZzzzzQAQ&theme=tokyonight&hide_border=true" />
-</picture>
+<sub>My latest activity and contribution graph are available directly on my GitHub profile.</sub>
 
 </div>
 
