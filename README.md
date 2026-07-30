@@ -20,10 +20,7 @@
 
 ```yaml
 name: TZzzzzQAQ
-role: Developer & lifelong learner
-currently_learning:
-  - C#
-  - Full-stack development
+role: Developer
 interests:
   - Software engineering
   - New technologies
